@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grid_row {
+  display: flex;
+  gap: 3px;
+  margin-bottom: 3px;
+}
+
+.grid_col {
+  padding: 15px;
+  background-color: grey;
+  width: 15px;
+  color: white;
+}
